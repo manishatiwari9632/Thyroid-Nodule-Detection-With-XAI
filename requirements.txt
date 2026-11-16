@@ -1,0 +1,13 @@
+streamlit
+pillow
+numpy
+huggingface-hub
+opencv-python-headless
+matplotlib
+python-docx
+fastapi
+uvicorn
+python-multipart
+jinja2
+torch 
+torchvision
